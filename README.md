@@ -1,6 +1,6 @@
 # webpack
 
-## How to use thins repository?
+## How to use this repository?
 
 You can use this template to create a new project with webpack.
 It has support for:
