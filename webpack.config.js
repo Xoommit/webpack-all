@@ -110,7 +110,7 @@ module.exports = {
     extensions: [".js", ".jsx"],
   },
 
-  // required if using webpack-dev-server
+//  required if using webpack-dev-server
   // devServer: {
   //   contentBase: "./dist",
   //   hot: true,

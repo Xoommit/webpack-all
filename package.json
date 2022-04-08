@@ -8,8 +8,7 @@
     "watch": "webpack --watch",
     "build": "cross-env NODE_ENV=production webpack",
     "build-dev": "webpack",
-    "clean": "rm -rf ./dist",
-    "test": "jest --coverage"
+    "clean": "rm -rf ./dist"
   },
   "author": "Mike van Eckendonk",
   "license": "MIT",
@@ -24,7 +23,6 @@
     "cross-env": "^7.0.3",
     "css-loader": "^5.2.7",
     "html-webpack-plugin": "^5.5.0",
-    "jest": "^27.4.5",
     "mini-css-extract-plugin": "^2.4.5",
     "postcss": "^8.4.4",
     "postcss-loader": "^4.3.0",
